@@ -2,6 +2,8 @@ Analytics Dashboard
 
 A simple and responsive Analytics Dashboard prototype built using HTML, CSS, and Vanilla JavaScript.
 
+Link:  https://pvievie.github.io/AnalyticsDashboard-/
+
 The dashboard displays basic user statistics and provides search and filtering features for managing user account information.
 
 Features
